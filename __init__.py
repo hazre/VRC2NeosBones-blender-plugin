@@ -43,10 +43,6 @@ class VRC2NeosBones_op(bpy.types.Operator):
         ("Spine", "Spine"),
         ("Chest", "Chest"),
         ("Neck", "Neck"),
-        ("Jaw", "jawbone"),
-
-        ("LeftEye", "Eye.L"),
-        ("RightEye", "Eye.L"),
 
         ("Shoulder_R", "Shoulder.R"),
         ("UpperArm_R", "Upper_Arm.R"),
