@@ -1,6 +1,6 @@
 # VRC2Neos Blender Plugin
 
-A tool designed to easily convert VRChat/Unity-humanoid Avatar armature bone names to NeoVR ones with a single button.
+A tool designed to easily convert VRChat/Unity-humanoid Avatar armature bone names to NeosVR ones with a single button.
 
 #### Download here: [VRC2Neos Blender Plugin](https://github.com/hazre/VRC2NeosBones-blender-plugin/archive/main.zip)
 
